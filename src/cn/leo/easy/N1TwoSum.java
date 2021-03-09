@@ -3,6 +3,10 @@ package cn.leo.easy;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 两数之和
+ * https://leetcode-cn.com/problems/two-sum/
+ */
 public class N1TwoSum {
 
     public static void main(String[] args) {
@@ -17,7 +21,7 @@ public class N1TwoSum {
             return;
         }
         System.out.println(String.format("(%d)+(%d)=%d", nums[results[0]],
-                nums[results[1]], target));
+            nums[results[1]], target));
 
     }
 

@@ -1,5 +1,9 @@
 package cn.leo.easy;
 
+/**
+ * 6 Z 字形变换
+ * https://leetcode-cn.com/problems/zigzag-conversion/
+ */
 public class N6ZigZagConversion {
 
     public static void main(String[] args) {
